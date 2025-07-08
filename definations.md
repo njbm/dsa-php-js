@@ -69,4 +69,67 @@ How much memory (RAM) an algorithm uses based on input size.
 
 ---
 
+## 🔃 Queue
+
+A **First In, First Out (FIFO)** data structure.  
+The first element added is the first one removed.
+
+🧠 **Analogy:** A line at a ticket counter — the person who arrives first gets served first.
+
+### ✅ Common Operations:
+- `enqueue(value)` – Add to the end
+- `dequeue()` – Remove from the front
+
+---
+
+## 🔁 Recursion
+
+A function that calls itself to solve smaller parts of a problem.
+
+🧠 **Analogy:** Looking at two mirrors facing each other — the reflection repeats.
+
+### ✅ Example Use Cases:
+- Factorial
+- Fibonacci
+- Tree traversal
+- Backtracking problems
+
+📌 **Important:** Always have a base condition to stop recursion and avoid infinite loops.
+
+---
+
+## 🔀 Merge Sort
+
+A sorting algorithm that uses **divide and conquer** to break the array into halves, sort them, then merge.
+
+📌 Time Complexity: `O(n log n)`  
+📌 Space Complexity: `O(n)`
+
+🧠 **Analogy:** Sort small piles of cards, then combine them into one big sorted pile.
+
+### ✅ Steps:
+1. Divide array into two halves
+2. Recursively sort each half
+3. Merge sorted halves
+
+---
+
+## 🌳 Tree
+
+A **hierarchical data structure** made of nodes.  
+Each node has a value and links (edges) to child nodes.
+
+- The **topmost** node is called the **root**
+- Nodes with no children are called **leaves**
+
+🧠 **Analogy:** Like a family tree or file directory system.
+
+### ✅ Common Tree Types:
+- Binary Tree (each node has ≤2 children)
+- Binary Search Tree (BST)
+- N-ary Tree
+- Trie (prefix tree)
+
+---
+
 This file will be updated as new concepts are added to the repository.
