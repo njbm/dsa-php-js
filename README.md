@@ -1,30 +1,32 @@
-# Data Structures and Algorithms in PHP & JavaScript
+# 🧮 Data Structures & Algorithms in PHP and JavaScript
 
-This repository contains implementations of core data structures and algorithms in **PHP** and **JavaScript**.
+This repository contains clean, well-structured implementations 
+of fundamental **data structures** and **algorithms** in **PHP** and **JavaScript**.
+Created By **Jaber Masud**.
 
-## 📂 Structure
+✅ Ideal for:
+- Learning
+- Technical assessments
+- Deepening your algorithmic understanding
+- Practicing both PHP and JavaScript in parallel
 
-- `php/`: PHP implementations
-- `javascript/`: JavaScript implementations
-- Organized by topic: arrays, linked list, stack, queue, trees, graphs, etc.
+## 📂 Topics Covered
 
-## ✅ Topics
-
-- Arrays
+- Arrays: Reverse, Sorting, Searching
 - Linked Lists
-- Stacks
-- Queues
-- Trees
-- Graphs
-- Recursion
-- Sorting
-- Searching
-- Dynamic Programming
+- Stack (Class-based)
+- Binary Search
+- Bubble Sort
+- Many more coming soon...
 
----
+Each solution includes:
+- Problem explanation
+- Code implementation
+- Time and space complexity
+- Example usage
 
-Each file includes:
-- ✅ Problem description
-- ✅ Code
-- ✅ Time/Space Complexity
-- ✅ Example usage
+## 📌 Tech Stack
+
+- PHP 8+
+- JavaScript (ES6+)
+- No external libraries
